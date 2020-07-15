@@ -6,3 +6,5 @@ local repo test
 this is remote test
 
 today is rainy day
+
+fetch test1
