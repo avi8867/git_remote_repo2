@@ -8,3 +8,5 @@ this is remote test
 today is rainy day
 
 fetch test1
+
+this is test sequence
